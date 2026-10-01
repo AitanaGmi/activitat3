@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activitat03</string>
+    <string name="male">Home</string>
+    <string name="female">Dona</string>
+    <string name="height">Alçada</string>
+    <string name="weight">Pes</string>
+    <string name="age">Edad</string>
+</resources>
